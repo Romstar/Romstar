@@ -2,7 +2,7 @@
 
 I am a fullstack software engineer from Dallas
 
-- 🔭 Working on multiple projects using React, Nodejs, PostgreSQL, and Firebase
+- 🔭 Working on multiple projects using React, Nodejs, PostgreSQL, Heroku, Fly.io, and Firebase
   <br>
 
 ## Connect with me
