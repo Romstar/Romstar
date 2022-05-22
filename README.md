@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a fullstack software engineer base in Manhattan
+I am a fullstack software engineer based in Manhattan
 
 - 🔭 Working on multiple projects using React, Nodejs, PostgreSQL, Heroku, Fly.io, and Firebase
   <br>
