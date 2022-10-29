@@ -2,7 +2,7 @@
 
 I am a fullstack software engineer based in Manhattan
 
-- 🔭 Working on multiple projects using React, Nodejs, PostgreSQL, Heroku, AWS, Fly.io, and Firebase
+- 🔭 Working on multiple projects using React, Nodejs, PostgreSQL, Heroku, AWS, GCP, and Firebase
   <br>
 
 ## Connect with me
