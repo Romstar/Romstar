@@ -2,7 +2,7 @@
 
 I am a fullstack software engineer based in Manhattan
 
-- 🔭 Working on multiple projects using React, Nodejs, PostgreSQL, Heroku, AWS, GCP, and Firebase
+- 🔭 Working on multiple SaaS projects using React (Next.js), Nodejs (Nest.js), PostgreSQL/TimeScaleDB, GCP, Google Cloud Deploy, Google Cloud Run, and Firebase
   <br>
 
 ## Connect with me
