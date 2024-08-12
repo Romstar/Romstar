@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a fullstack software engineer based in Manhattan
+I am a fullstack software engineer based in Ann Arbor
 
 - 🔭 Working on multiple SaaS projects using React (Next.js), Nodejs (Nest.js), PostgreSQL/TimeScaleDB, GCP, Google Cloud Deploy, Google Cloud Run, and Firebase
   <br>
